@@ -1081,11 +1081,11 @@
             "keyActions": [
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 30
+                "macroIndex": 1
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 31
+                "macroIndex": 1
               },
               {
                 "keyActionType": "none"
@@ -1202,7 +1202,7 @@
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 21
+                "macroIndex": 1
               },
               {
                 "keyActionType": "switchLayer",
@@ -1214,11 +1214,11 @@
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 22
+                "macroIndex": 1
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 28
+                "macroIndex": 1
               },
               {
                 "keyActionType": "none"
@@ -1234,7 +1234,7 @@
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 29
+                "macroIndex": 1
               },
               {
                 "keyActionType": "none"
@@ -1289,12 +1289,10 @@
                 "scancode": 41
               },
               {
-                "keyActionType": "switchKeymap",
-                "keymapAbbreviation": "UNX"
+                "keyActionType": "none"
               },
               {
-                "keyActionType": "switchKeymap",
-                "keymapAbbreviation": "GAM"
+                "keyActionType": "none"
               },
               {
                 "keyActionType": "none"
@@ -1334,19 +1332,19 @@
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 18
+                "macroIndex": 1
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 16
+                "macroIndex": 1
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 17
+                "macroIndex": 1
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 19
+                "macroIndex": 1
               },
               {
                 "keyActionType": "none"
@@ -1374,7 +1372,7 @@
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 20
+                "macroIndex": 2
               },
               {
                 "keyActionType": "none"
@@ -1398,7 +1396,7 @@
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 3
+                "macroIndex": 1
               },
               {
                 "keyActionType": "none"
@@ -1417,7 +1415,7 @@
               },
               {
                 "keyActionType": "playMacro",
-                "macroIndex": 32
+                "macroIndex": 1
               }
             ]
           },
